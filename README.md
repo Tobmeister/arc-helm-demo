@@ -5,9 +5,9 @@ This repository contains a sample Helm Chart to be referenced from a `HelmReleas
 
 | File/Folder | Description |
 | ----------- | ----------- |
-| README.md | T his README file |
+| README.md | This README file |
 | LICENSE | The license for the demo |
-| charts | Helm charts to be refences from `HelmRelease` definitions 
+| charts | Helm charts to be refenced from `HelmRelease` definitions 
 
 # Prerequisites
 One or more Kubernetes clusters are [connected to Azure Arc](https://docs.microsoft.com/en-in/azure/azure-arc/kubernetes/connect-cluster) using the `connectedk8s` Azure CLI extension.

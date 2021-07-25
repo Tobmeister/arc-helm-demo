@@ -1,5 +1,5 @@
 apiVersion: v2
 description: Sample Helm chart for Azure Arc enabled Kubernetes
-name: sample-foo
+name: sample-bar
 version: 0.1.0
 appVersion: 0.1.0
